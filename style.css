@@ -58,11 +58,6 @@ section img {
   border-radius: 50%;
 }
 
-footer a {
-  color: rgb(146, 141, 141);
-  font-size: 11px;
-}
-
 .block {
   width: 50%;
   margin: auto;
@@ -100,4 +95,9 @@ footer a {
 
 section a {
   color: black;
+}
+
+footer a {
+  color: rgb(146, 141, 141);
+  font-size: 11px;
 }

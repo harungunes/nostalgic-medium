@@ -43,7 +43,7 @@ nav a {
 }
 
 section {
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 section img {
@@ -61,4 +61,39 @@ section img {
 footer a {
   color: rgb(146, 141, 141);
   font-size: 11px;
+}
+
+.block {
+  width: 50%;
+  margin: auto;
+}
+
+.story-sub-title {
+  color: rgb(146, 141, 141);
+}
+
+.story-avatar {
+  height: 70px;
+  width: 70px;
+  border: rgb(114, 202, 114) solid 3px;
+  border-radius: 50%;
+}
+
+.social-icons {
+  margin-top: 40px;
+}
+
+.story-image {
+  width: 100%;
+  height: 100%;
+}
+
+.alt-text {
+  font-size: 11px;
+  color: rgb(146, 141, 141);
+  text-align: center;
+}
+
+.text {
+  font-size: 13px;
 }

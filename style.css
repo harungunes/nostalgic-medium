@@ -1,0 +1,64 @@
+body {
+  padding-bottom: 70px;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.brand {
+  padding-top: 20px;
+}
+
+.right-header img {
+  text-align: right;
+  height: 50px;
+  width: 50px;
+  border: rgb(114, 202, 114) solid 3px;
+  border-radius: 50%;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav a {
+  color: rgb(146, 141, 141);
+  font-size: 13px;
+}
+
+.story-tag {
+  text-transform: uppercase;
+  font-size: 11px;
+  color: rgb(146, 141, 141);
+}
+
+.sub-title, .time-tag {
+  font-size: 11px;
+  color: rgb(146, 141, 141);
+}
+
+.name-tag {
+  font-size: 11px;
+}
+
+section {
+  margin-top: 60px;
+}
+
+section img {
+  height: 140px;
+  width: 170px;
+}
+
+.avatar {
+  height: 50px;
+  width: 50px;
+  border: rgb(114, 202, 114) solid 3px;
+  border-radius: 50%;
+}
+
+footer a {
+  color: rgb(146, 141, 141);
+  font-size: 11px;
+}
